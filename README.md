@@ -2,6 +2,11 @@
 
 Comma : Command Of Managing Missions and Assignments is a project to make accessing links and website easier by launching it from command line.
 
+# Requirements
+
+The provided binaries are compatible with brave browser on 64-bit linux-based operating system (filename : comma) and any browser (the one set as default) on 64-bit windows operating system (filename : comma.exe).  
+If you wish to use the program in operating system or browser not mentioned above, feel free to compile, and modify the source code as needed.
+
 # Usage
 
 Before using Comma, make a plain text file in the same directory named list.txt in the following format :
