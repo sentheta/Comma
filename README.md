@@ -6,7 +6,7 @@ Comma : Command Of Managing Missions and Assignments is a project to make access
 
 The provided binaries are compatible with brave browser on 64-bit linux-based operating system (filename : comma) and any browser (the one set as default) on 64-bit windows operating system (filename : comma.exe).
 
-If you wish to use the program in operating system or browser not mentioned above, feel free to compile, and modify the source code as needed.
+If you wish to use the program in operating systems or browsers not mentioned above, feel free to compile and modify the source code as needed, or make a requests at the issue section of this github page.
 
 # Usage
 
@@ -25,3 +25,5 @@ You can use this program to access frequently accessed websites' url. For studen
 # Contribution
 
 Please report any issues you find while using the program in this github page. Also do mention the operating system used and recent actions you have done with the program.
+
+You can also make suggestions and feature requests in the issue section of this github page.
